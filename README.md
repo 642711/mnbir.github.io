@@ -4,7 +4,7 @@
 <body>
 
 <h1>my name is masoume</h1>
-<p>Hello my Friends</p>
+<p>Hi my Friends</p>
 
 </body>
 </html>
