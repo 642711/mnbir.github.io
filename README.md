@@ -1,7 +1,5 @@
-# mnbir.github.io
 <html>
 <head>
-<title>Page Title</title>
 </head>
 <body>
 
